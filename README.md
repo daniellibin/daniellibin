@@ -5,7 +5,7 @@
 - NLP
 - ML&DL
 
-<a href="https://github.com/chizhu">
+<a href="https://github.com/danielibin">
   <img align="center" src="https://github-readme-stats-teal.vercel.app/api?username=daniellibin&show_icons=truet&include_all_commits=True&hide=contribs" alt="Anurag's github stats" />
 </a>
 
