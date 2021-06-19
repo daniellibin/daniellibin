@@ -5,12 +5,7 @@
 - NLP
 - ML&DL
 
-<a href="https://github.com/daniellibin"><img align="center" src="https://github-readme-stats-teal.vercel.app/api?username=daniellibin&show_icons=true&include_all_commits=True&hide=contribs" alt="Anurag's github stats" /></a>
-
-<a href="https://github.com/daniellibin">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats-teal.vercel.app/api/top-langs/?username=daniellibin&layout=compact" />
-</a>
+<a href="https://github.com/daniellibin"><img align="center" src="https://github-readme-stats-teal.vercel.app/api?username=daniellibin&show_icons=true&include_all_commits=true&hide=contribs" alt="Anurag's github stats" />_</a><a href="https://github.com/daniellibin"><img align="center" src="https://github-readme-stats-teal.vercel.app/api/top-langs/?username=daniellibin&layout=compact" /></a>
 
 
 ### My Social Media 😺
