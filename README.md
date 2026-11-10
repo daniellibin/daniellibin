@@ -5,7 +5,8 @@
 - NLP
 - ML&DL
 
-<a href="https://github.com/daniellibin"><img align="center" src="https://github-readme-stats-teal.vercel.app/api?username=daniellibin&show_icons=true&include_all_commits=true&hide=contribs" alt="Anurag's github stats" />_</a><a href="https://github.com/daniellibin"><img align="center" src="https://github-readme-stats-teal.vercel.app/api/top-langs/?username=daniellibin&layout=compact" /></a>
+<a href="https://github.com/daniellibin"><img align="center" src="./profile/stats.svg" alt="daniellibin's GitHub stats" /></a>
+<a href="https://github.com/daniellibin"><img align="center" src="./profile/top-langs.svg" alt="daniellibin's top languages" /></a>
 
 
 ### My Social Media 😺
@@ -28,4 +29,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
